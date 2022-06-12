@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcf8510d-2d18-4399-8596-88b38baf6560" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exceptionHandle/ExceptionHandleInKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exceptionHandle/TryCatchFinally.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/iteration/Iteration1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/iteration/Iteration2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collection/Collection1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/collection/Collection2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Interator.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +34,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2APziEi5ALlQF3tWU79mjXZT8ag" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,26 +49,34 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TryAsFormulaKt">
-    <configuration name="ExceptionHandleInKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandleInKotlinKt" />
+  <component name="RunManager" selected="Kotlin.OverrideKt">
+    <configuration name="Collection1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Collection1Kt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iteration2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Iteration2Kt" />
+    <configuration name="Collection2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Collection2Kt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iteration3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Iteration3Kt" />
+    <configuration name="ExpensionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.ExpensionFunctionKt" />
+      <module name="dongkotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverrideKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.OverrideKt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,20 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryCatchFinallyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionHandle.TryCatchFinallyKt" />
-      <module name="dongkotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OverrideKt" />
+        <item itemvalue="Kotlin.Collection2Kt" />
+        <item itemvalue="Kotlin.ExpensionFunctionKt" />
+        <item itemvalue="Kotlin.Collection1Kt" />
         <item itemvalue="Kotlin.TryAsFormulaKt" />
-        <item itemvalue="Kotlin.TryCatchFinallyKt" />
-        <item itemvalue="Kotlin.ExceptionHandleInKotlinKt" />
-        <item itemvalue="Kotlin.Iteration3Kt" />
-        <item itemvalue="Kotlin.Iteration2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -146,5 +146,9 @@
         <entry key="e9ad979c-9660-4db0-ad55-244e965f9099" value="TOOL_WINDOW" />
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
