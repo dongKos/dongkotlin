@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bcf8510d-2d18-4399-8596-88b38baf6560" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collection/ExpensionFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_3_function/ExpensionFunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collection/Override.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_3_function/Override.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LocalFunctionKt">
+  <component name="RunManager" selected="Kotlin.KotlinInterfaceKt">
     <configuration name="ExpansionCollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.ExpansionCollectionKt" />
       <module name="dongkotlin.main" />
@@ -68,15 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_3_function.LocalFunctionKt" />
+    <configuration name="KotlinInterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_classObjectInterface.kotlinInterface.KotlinInterfaceKt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverrideKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.OverrideKt" />
+    <configuration name="LocalFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_3_function.LocalFunctionKt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KotlinInterfaceKt" />
         <item itemvalue="Kotlin.LocalFunctionKt" />
         <item itemvalue="Kotlin.SplitKt" />
         <item itemvalue="Kotlin.ExpansionCollectionKt" />
         <item itemvalue="Kotlin.ExpansionPropertyKt" />
-        <item itemvalue="Kotlin.OverrideKt" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +107,9 @@
       <updated>1654926136414</updated>
       <workItem from="1654926138646" duration="329000" />
       <workItem from="1655083315048" duration="106000" />
-      <workItem from="1655108379626" duration="3529000" />
+      <workItem from="1655108379626" duration="4601000" />
+      <workItem from="1655167338577" duration="1608000" />
+      <workItem from="1655186258181" duration="4970000" />
     </task>
     <servers />
   </component>
