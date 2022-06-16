@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bcf8510d-2d18-4399-8596-88b38baf6560" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_4_classObjectInterface/dataClass/Client.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_4_classObjectInterface/dataClass/Client.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +53,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ClientKt">
+  <component name="RunManager" selected="Kotlin.CountingSetKt">
     <configuration name="ClientKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_4_classObjectInterface.dataClass.ClientKt" />
+      <module name="dongkotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_classObjectInterface.classDelegation.CountingSetKt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,20 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_classObjectInterface.Initialize.UserKt" />
-      <module name="dongkotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CountingSetKt" />
         <item itemvalue="Kotlin.ClientKt" />
         <item itemvalue="Kotlin.LengthCounterKt" />
         <item itemvalue="Kotlin.UserKt (2)" />
         <item itemvalue="Kotlin.UserKt (1)" />
-        <item itemvalue="Kotlin.UserKt" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +115,7 @@
       <workItem from="1655253975643" duration="2520000" />
       <workItem from="1655261810163" duration="6294000" />
       <workItem from="1655283061034" duration="1400000" />
-      <workItem from="1655341743510" duration="2083000" />
+      <workItem from="1655341743510" duration="4291000" />
     </task>
     <servers />
   </component>

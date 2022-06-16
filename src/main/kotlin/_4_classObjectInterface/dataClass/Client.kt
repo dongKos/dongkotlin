@@ -11,6 +11,10 @@ class Client(val name: String, val postalCode: Int) {
     }
 
     override fun hashCode(): Int = name.hashCode() * 31 + postalCode
+
+    fun copy(name: String = this.name,
+            postalCode: Int = this.postalCode) =
+        Client(name, postalCode)
 }
 
 fun main(args: Array<String>) {
@@ -22,4 +26,13 @@ fun main(args: Array<String>) {
 
     //equals가 true인 두 객체는 반드시 같은 hashCode()값을 반환해야한다
     println(processed.contains(Client("dongko", 4122)))
+
+    val client3 = Client("김동환", 12345)
+    println(client3.copy())
+    println(client3.copy(postalCode = 54321))
+
+    println(client3.copy() == client3.copy("김동환", 12345))
+
+
+
 }
