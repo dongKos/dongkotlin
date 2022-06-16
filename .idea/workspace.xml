@@ -21,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Script" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -51,37 +52,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KotlinInterfaceKt">
-    <configuration name="ExpansionCollectionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.ExpansionCollectionKt" />
+  <component name="RunManager" selected="Kotlin.ClientKt">
+    <configuration name="ClientKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_classObjectInterface.dataClass.ClientKt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpansionPropertyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.ExpansionPropertyKt" />
+    <configuration name="LengthCounterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_classObjectInterface.property.getset.LengthCounterKt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KotlinInterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_4_classObjectInterface.kotlinInterface.KotlinInterfaceKt" />
+    <configuration name="UserKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_classObjectInterface.property.UserKt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_3_function.LocalFunctionKt" />
+    <configuration name="UserKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_classObjectInterface.property.getset.UserKt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_3_function.SplitKt" />
+    <configuration name="UserKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_classObjectInterface.Initialize.UserKt" />
       <module name="dongkotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.KotlinInterfaceKt" />
-        <item itemvalue="Kotlin.LocalFunctionKt" />
-        <item itemvalue="Kotlin.SplitKt" />
-        <item itemvalue="Kotlin.ExpansionCollectionKt" />
-        <item itemvalue="Kotlin.ExpansionPropertyKt" />
+        <item itemvalue="Kotlin.ClientKt" />
+        <item itemvalue="Kotlin.LengthCounterKt" />
+        <item itemvalue="Kotlin.UserKt (2)" />
+        <item itemvalue="Kotlin.UserKt (1)" />
+        <item itemvalue="Kotlin.UserKt" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +110,11 @@
       <workItem from="1655083315048" duration="106000" />
       <workItem from="1655108379626" duration="4601000" />
       <workItem from="1655167338577" duration="1608000" />
-      <workItem from="1655186258181" duration="4970000" />
+      <workItem from="1655186258181" duration="5547000" />
+      <workItem from="1655253975643" duration="2520000" />
+      <workItem from="1655261810163" duration="6294000" />
+      <workItem from="1655283061034" duration="1400000" />
+      <workItem from="1655341743510" duration="2083000" />
     </task>
     <servers />
   </component>
